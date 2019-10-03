@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS Scheduler</string>
+    <string name="date_and_time_pattern">dd.MM.yyyy HH:mm z</string>
+</resources>
